@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">colorPicker</string>
+    <string-array name="color">
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
+</resources>
